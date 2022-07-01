@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avaneesh Shetye</h1>
+<h1 align="center">Hi 👋, I'm Avaneesh Shetye!</h1>
 <h3 align="center">I am trying to get a hang of different programming languages. Still not any good yet, but I am hanging in there :)</h3>
 
 - 🌱 I’m currently learning **Java, Flutter, HTML, CSS, Javascript, PHP and NodeJs**

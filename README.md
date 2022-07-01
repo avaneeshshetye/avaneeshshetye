@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Flutter, HTML, CSS, Javascript, PHP and NodeJs**
 
+- ⚡ Fun fact **More the efforts you put into your programming ,the more do I get motivated**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

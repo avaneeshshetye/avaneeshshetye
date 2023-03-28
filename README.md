@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Avaneesh Shetye!</h1>
-<h3 align="center">I am trying to get a hang of different programming languages. Still not any good yet, but I am hanging in there </h3>
 <img src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="500" >
 - 🌱  I’m currently learning <strong> Java, Flutter, HTML, CSS, Javascript, PHP </strong>
 

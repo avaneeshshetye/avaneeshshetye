@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avaneesh !</h1>
+<h1 align="center">Hi 👋, I'm Avaneesh Shetye !</h1>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" style="float: right;">
 
 
